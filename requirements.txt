@@ -9,4 +9,6 @@ xgboost
 dill
 streamlit
 lime
+yellowbrick
+statsmodels
 #-e .
